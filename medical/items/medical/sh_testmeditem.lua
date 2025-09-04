@@ -1,0 +1,9 @@
+ITEM.name = "TestMedicalItem"
+ITEM.model = Model("models/healthvial.mdl")
+ITEM.description = "Testing"
+ITEM.UseTime = 1
+ITEM.HealAmount = 10
+ITEM.KOGetUp = true
+ITEM.StunGetUp = true
+ITEM.RemoveEffect = {"blurred", "concucsion"}
+ITEM.IsSingleUse = true
